@@ -11,3 +11,16 @@
  *= require_self
  *= require_tree .
  */
+
+ body {
+ 	padding-top: 40px;
+ 	position: center;
+ }
+ .sign {
+ 	background: transparent;
+ 	font-family: comic sans;
+ }
+ .signapp {
+ 	padding-left: 20%;
+ 	padding-top: 10%;
+ }
